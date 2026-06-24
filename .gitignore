@@ -1,0 +1,24 @@
+*.xlsx
+*.csv
+metropt_features.parquet
+
+# Virtual environment
+.venv/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# EDA outputs
+eda_*.png
+xgb_*.png
+baseline_*.png
+tuned_*.png
+
+# Python
+__pycache__/
+*.pyc
