@@ -209,11 +209,3 @@ MaintenancePilot/
 ## Stack
 
 `LightGBM` · `XGBoost` · `Optuna` · `MLflow` · `FastAPI` · `Docker` · `Evidently AI` · `GitHub Actions` · `Polars` · `scikit-learn` · `joblib` · `Pydantic`
-
----
-
-## About
-
-Built by [Palak Porwal](https://www.linkedin.com/in/palak-porwal263/) — Aerospace Engineering graduate (NTU Singapore, Smart Manufacturing & Digital Factory specialisation). Targeting Applied AI Engineer and Data Scientist roles in Singapore's industrial AI sector.
-
-Portfolio: [AeroOps Copilot](https://github.com/palakpwl07/AeroOps) — Graph-RAG Q&A system over aircraft engine maintenance documentation.
