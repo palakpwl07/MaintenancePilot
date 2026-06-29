@@ -2,7 +2,8 @@
 
 Predictive maintenance pipeline for industrial compressors. Predicts failure risk 48 hours in advance using real operational sensor data. Built to demonstrate production ML engineering — the model is not the product, the pipeline is.
 
-**Live API:** https://pp263-maintenancepilot.hf.space/docs  
+**Google Cloud Deployment:** [https://maintenancepilot-395994505246.asia-southeast1.run.app/docs](https://maintenancepilot-395994505246.asia-southeast1.run.app/docs)  
+**Hugging Face Deployment:** https://pp263-maintenancepilot.hf.space/docs  
 **GitHub:** https://github.com/palakpwl07/MaintenancePilot
 
 ---
